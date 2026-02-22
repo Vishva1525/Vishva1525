@@ -28,7 +28,7 @@ SYSTEM READY
 
 # About Me
 
-* Sophomore **Computer Science Engineering student**
+* Pre Final Year **Computer Science Engineering student**
 * Building **AI-driven real-world solutions**
 * Published **research papers in AI & data analytics**
 * Developing **intelligent systems for social impact**
